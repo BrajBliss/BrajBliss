@@ -1,7 +1,7 @@
 ### 🙏 Hare Kṛṣṇa 🙇	
-[![linkedin badge](https://img.shields.io/badge/Sumanjay-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/kkrrssnnaa)
-[![twitter badge](https://img.shields.io/badge/@Cyberboysj-30302f?style=flat&logo=twitter)](https://twitter.com/kkrrssnnaa)
-[![telegram badge](https://img.shields.io/badge/Sumanjay-30302f?style=flat&logo=telegram)](https://telegram.dog/kkrrssnnaa)
+[![linkedin badge](https://img.shields.io/badge/kkrrssnnaa-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/kkrrssnnaa)
+[![twitter badge](https://img.shields.io/badge/@kkrrssnnaa-30302f?style=flat&logo=twitter)](https://twitter.com/kkrrssnnaa)
+[![telegram badge](https://img.shields.io/badge/kkrrssnnaa-30302f?style=flat&logo=telegram)](https://telegram.dog/kkrrssnnaa)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kkrrssnnaa/)
 
