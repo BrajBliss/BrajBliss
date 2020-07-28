@@ -5,9 +5,9 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kkrrssnnaa/)
 
-- 🔭 I’m currently working on C, C++, Python
-- 🌱 I’m currently learning Java & Kotlin for App Development
-- 👯 I’m looking to collaborate on Projects, Apps & Competitions
+- 🔭 I’m currently working on C, C++, Python, Java & Kotlin
+- 🌱 I’m currently learning Data Structures & Algorithms
+- 👯 I’m looking to collaborate on Projects, Apps & Competitions, Contests
 - 🤔 I’m looking for help with everything LOL
 - 💬 Ask me about anything
 - 📫 How to reach me: Telegram - [@kkrrssnnaa](https://telegram.dog/kkrrssnnaa)
