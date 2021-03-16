@@ -1,4 +1,5 @@
 [![linkedin badge](https://img.shields.io/badge/BrajBliss-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/BrajBliss)
+[![twitter badge](https://img.shields.io/badge/BrajBliss-30302f?style=flat&logo=twitter)](https://twitter.com/BrajBliss)
 [![telegram badge](https://img.shields.io/badge/BrajBliss-30302f?style=flat&logo=telegram)](https://telegram.me/BrajBliss)
 
 
