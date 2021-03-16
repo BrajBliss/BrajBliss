@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on C++, Python, Java.
 - 👯 I’m looking to collaborate on Projects, Apps & Competitions, Contests
-- ⚡ I’m also writing in free time at Medium
+- ⚡ I’m also very active on my Twitter, LinkedIn and Medium
 - 💬 Ask me about anything
 - 📫 **Make sure to check my BigLink in bio!**
 
