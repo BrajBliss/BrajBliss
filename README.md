@@ -1,5 +1,5 @@
 [![linkedin badge](https://img.shields.io/badge/BrajBliss-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/BrajBliss)
-[![telegram badge](https://img.shields.io/badge/BrajBliss-30302f?style=flat&logo=telegram)](https://telegram.me/BrajBliss)
+[![telegram badge](https://img.shields.io/badge/BrajBliss-30302f?style=flat&logo=telegram)](https://telegram.me/voiceofvraja)
 [![twitter badge](https://img.shields.io/badge/BrajBliss-30302f?style=flat&logo=twitter)](https://twitter.com/BrajBliss)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vrindavan/)
