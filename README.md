@@ -10,5 +10,5 @@
 - 💬 Ask me about anything
 - 📫 Check my BigLink
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=vrindavan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrindavan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Amay's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrindavan&layout=compact)]
