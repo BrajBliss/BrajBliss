@@ -3,7 +3,7 @@
 [![telegram badge](https://img.shields.io/badge/BrajBliss-30302f?style=flat&logo=telegram)](https://telegram.me/AmayJain)
 [![twitter badge](https://img.shields.io/badge/BrajBliss-30302f?style=flat&logo=twitter)](https://twitter.com/BrajBliss)
 
-- 🔭 I’m currently working on C++, Kotlin, Python, Java.
+- 🔭 I’m currently working on C++, Python, Java.
 - 🧑‍🤝‍🧑 I’m looking to collaborate on Projects, Apps & Competitions
 - ⚡ I'm complete noob :D
 - 💬 Ask me about anything
