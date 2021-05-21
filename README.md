@@ -7,7 +7,7 @@
 - 🧑‍🤝‍🧑 I’m looking to collaborate on Projects, Apps & Competitions
 - ⚡ I'm complete noob :D
 - 💬 Ask me about anything
-- 📫 Check my BigLink
+- 📫 Check my Linktree
 
 ![Amay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrindavan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
