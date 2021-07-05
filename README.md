@@ -3,7 +3,7 @@
 [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://telegram.me/BrajBliss)
 
 - 🔭 I’m currently working with Java, Python, C++
-- 🧑‍🤝‍🧑 I’m looking to collaborate on Projects, Apps, Open Source Contribution
+- 🤝 I’m looking to collaborate on Projects, Apps, Open Source Contribution
 - ⚡ I'm complete noob :D
 - 💬 Ask me about anything
 - 📫 Check out my Link Tree!
