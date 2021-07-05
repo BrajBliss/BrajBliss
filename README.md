@@ -6,6 +6,6 @@
 - 🤝 looking to collaborate on Projects, Apps, Open Source Contribution
 - ⚡ complete noob :D
 - 💬 ask about anything
-- 📫 Check out my Link Tree!
+- 📫 check out my Link Tree!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrindavan&theme=dark&show_icons=true)
