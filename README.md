@@ -7,5 +7,5 @@
 - ⚡ I'm complete noob :D
 - 💬 Ask me about anything
 - 📫 Check out my Link Tree!
-
-![Amay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrindavan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrindavan&theme=dark&show_icons=true)
