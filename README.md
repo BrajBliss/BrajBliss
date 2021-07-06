@@ -1,11 +1,11 @@
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvrindavan%2Fhit-counter&count_bg=%231980CF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
+- ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvrindavan%2Fhit-counter&count_bg=%231980CF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 - ⚙️ currently working with Java, Python, C++
 - 🤝 looking to collaborate on Projects, Apps, Open Source Contribution
 - ⚡ complete noob :D
 - 💬 ask about anything
 - 📫 check out my Link Tree!
 
+## Presence
 [![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:BrajBliss@gmail.com)
 [![Twitter badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/BrajBliss)
 [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/BrajBliss)
