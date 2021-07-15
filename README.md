@@ -2,7 +2,7 @@
 - 🤝 looking to collaborate on Projects, Apps, Open Source Contribution
 - ⚡ complete noob :D
 - 💬 ask about anything
-- 📫 check out my Link Tree!
+- 📫 check out my Link Wall!
 
 ## Presence
 [![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:BrajBliss@gmail.com)
