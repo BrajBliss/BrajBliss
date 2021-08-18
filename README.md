@@ -27,7 +27,6 @@
 ![IDE badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![IDE badge](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![Office badge](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Processor badge](https://img.shields.io/badge/Intel-Core_i3-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Edits badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 ![Amay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrindavan&theme=dark&show_icons=true)
