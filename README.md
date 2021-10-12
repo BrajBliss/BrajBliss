@@ -1,4 +1,4 @@
-# Self-Taught Full Stack Web Developer ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvrindavan%2Fhit-counter&count_bg=%231980CF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+# Self-Taught Full Stack Web Developer | Spotify Community Rising Star ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvrindavan%2Fhit-counter&count_bg=%231980CF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 
 ## Presence
@@ -6,6 +6,8 @@
 [![IG badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/BrajBlisss)
 [![Twitter badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/BrajBliss)
 [![YT badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5X_YUSC34_IHMednLUjKOw)
+[![Spotify badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://volt.fm/amay)
+[![Spotify badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black)](https://community.spotify.com/t5/user/viewprofilepage/user-id/24841200)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brajbliss)
 [![HackerRank badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/brajbliss)
 
