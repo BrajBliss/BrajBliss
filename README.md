@@ -1,4 +1,4 @@
-# Self-Taught Full Stack Web Developer ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvrindavan%2Fhit-counter&count_bg=%231980CF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+# Self-Taught Full-Stack Web Developer | Spotify Community Rising Star ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvrindavan%2Fhit-counter&count_bg=%231980CF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 
 ## Presence
