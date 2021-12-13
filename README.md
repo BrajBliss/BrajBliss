@@ -5,7 +5,6 @@
 [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/BrajBliss)
 [![IG badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/BrajBlisss)
 [![Twitter badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/BrajBliss)
-[![Pinterest badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/brajbliss)
 [![Spotify badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://volt.fm/amay)
 [![YT badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5X_YUSC34_IHMednLUjKOw)
 [![Spotify badge](https://img.shields.io/badge/Community-1ED760?&style=for-the-badge&logo=spotify&logoColor=black)](https://community.spotify.com/t5/Community-Blog/Backstage-Intro-Meet-Amay/ba-p/5306011)
