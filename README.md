@@ -9,7 +9,6 @@
 [![YT badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/amayy)
 [![Spotify badge](https://img.shields.io/badge/Community-1ED760?&style=for-the-badge&logo=spotify&logoColor=black)](https://community.spotify.com/t5/Community-Blog/Backstage-Intro-Meet-Amay/ba-p/5306011)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brajbliss)
-[![Quora badge](https://img.shields.io/badge/Quora-b92b27?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Amay-36)
 [![HackerRank badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/brajbliss)
 
 ## Stack
