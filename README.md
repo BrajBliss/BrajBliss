@@ -11,7 +11,8 @@
 🌱 I'm working with Java, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB Atlas. <br>
 📧 Feel free to contact me regarding anything.
 
-## Practicing at ⚙️ <a href="https://www.linkedin.com/in/brajbliss/"><img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif?raw=true" align="right" width="155" height="130"></a>
+## Practicing at ⚙️ 
+<a href="https://www.linkedin.com/in/brajbliss/"><img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif?raw=true" align="right" width="155" height="125"></a>
 🤧 [LeetCode](https://leetcode.com/BrajBliss/)<br>
 😮‍💨 5 🌟 [HackerRank](https://www.hackerrank.com/BrajBliss)<br>
 🤗 Sharing updates on [LinkedIn](https://linkedin.com/in/brajbliss) and [Twitter](https://twitter.com/BrajBliss)
@@ -34,3 +35,5 @@
 ## Snake Eating my Contribution 🐍
 
 ![snake gif](https://github.com/vrindavan/vrindavan/blob/output/github-contribution-grid-snake.svg)
+
+> Readme Template Inspiration from [@Tanya](https://github.com/tanyarajhans)
