@@ -9,7 +9,7 @@
 👨‍🎓 I'm currently pursuing my bachelors in Computer and Science Engineering from CDGI, Indore . <br>
 🤯 My interests are open-source contribution, competitive programming and Software Development. <br>
 🌱 I'm working with Java, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB Atlas. <br>
-📧 Feel free to contact me regarding 
+📧 Feel free to contact me regarding anything.
 
 ## Practicing at ⚙️ <a href="https://www.linkedin.com/in/brajbliss/"><img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif?raw=true" align="left" width="155" height="130"></a>
 🤧 [LeetCode](https://leetcode.com/BrajBliss/)<br>
