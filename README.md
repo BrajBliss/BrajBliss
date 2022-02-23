@@ -7,7 +7,7 @@
 ## About Me 🙋‍♂️
 <img alt="Eat Sleep Code Repeat" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" align="right" width="155" height="130"/>
 👨‍🎓 I'm currently pursuing my bachelors in Computer and Science Engineering from CDGI, Indore . <br>
-🤯 My interests are Open-source contribution, Competitive Programming and Software Development. <br>
+🤯 My interests are Open-source contribution, Competitive Programming, and Software Development. <br>
 🌱 I'm working with Java, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB Atlas. <br>
 📧 Feel free to contact me regarding anything.
 
