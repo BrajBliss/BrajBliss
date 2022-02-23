@@ -5,18 +5,16 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=vrindavan&color=brightgreen">  
 
 ## About Me 🙋‍♂️
-<img alt="Eat Sleep Code Repeat" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" align="right" width="150" height="125"/>
+<img alt="Eat Sleep Code Repeat" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" align="right" width="155" height="130"/>
 👨‍🎓 I'm currently pursuing my bachelors in Computer and Science Engineering from CDGI, Indore . <br>
 🤯 My interests are open-source contribution, competitive programming and Software Development. <br>
 🌱 I'm working with Java, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB Atlas. <br>
 📧 Feel free to contact me regarding 
 
-## Practicing at ⚙️
-<a href="https://www.linkedin.com/in/brajbliss/"><img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif?raw=true" align="right" width="150" height="125"></a>
+## Practicing at ⚙️ <a href="https://www.linkedin.com/in/brajbliss/"><img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif?raw=true" align="left" width="155" height="130"></a>
 🤧 [LeetCode](https://leetcode.com/BrajBliss/)<br>
 😮‍💨 5 🌟 [HackerRank](https://www.hackerrank.com/BrajBliss)<br>
 🤗 Sharing updates on [LinkedIn](https://linkedin.com/in/brajbliss) and [Twitter](https://twitter.com/BrajBliss)
-
 
 ## Also Present Here 🌏
 [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/BrajBliss)
