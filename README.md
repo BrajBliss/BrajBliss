@@ -36,4 +36,4 @@
 
 ![snake gif](https://github.com/vrindavan/vrindavan/blob/output/github-contribution-grid-snake.svg)
 
-> Readme Template Inspiration from [@Tanya](https://github.com/tanyarajhans)
+> Readme Template Inspiration from [@Tanya](https://github.com/tanyarajhans) and [@Riti](https://github.com/riti2409)
