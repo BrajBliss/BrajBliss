@@ -12,7 +12,7 @@
 📧 Feel free to contact me regarding anything.
 
 ## Practicing at ⚙️ 
-<a href="https://www.linkedin.com/in/brajbliss/"><img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif?raw=true" align="right" width="155" height="125"></a>
+<a href="https://www.linkedin.com/in/brajbliss/"><img src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif?raw=true" align="right" width="155" height="125"></a>
 🤧 [LeetCode](https://leetcode.com/BrajBliss/)<br>
 😮‍💨 5 🌟 [HackerRank](https://www.hackerrank.com/BrajBliss)<br>
 🤗 Sharing updates on [LinkedIn](https://linkedin.com/in/brajbliss) and [Twitter](https://twitter.com/BrajBliss)
