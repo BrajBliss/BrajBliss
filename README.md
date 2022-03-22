@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrindavan&theme=aura&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/vrindavan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrindavan&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrindavan&layout=compact&theme=aura&" />
 </a>
 
 ## Snake Eating my Contribution 🐍
