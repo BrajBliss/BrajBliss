@@ -23,17 +23,21 @@
 [![Spotify badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/55m1lujjgt8airyq3b4kexcva)
 [![YT badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/amayy)
 
-## Stats
+## Stats 📊
 
 <a href="https://github.com/vrindavan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrindavan&theme=aura&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrindavan&theme=aura&&hide_border=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/vrindavan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrindavan&layout=compact&theme=aura&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrindavan&hide_border=true&layout=compact&theme=aura" />
 </a>
+<a href="https://github.com/vrindavan">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasantisuthar&theme=tokyonight_duo&hide_border=true&show_icons=true&include_all_commits=true" />
+</a>
+
+## Contribution Graph 📊
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vrindavan&theme=redical&hide_border=true)
 
 ## Snake Eating my Contribution 🐍
 
 ![snake gif](https://github.com/vrindavan/vrindavan/blob/output/github-contribution-grid-snake.svg)
-
-> Readme Template Inspiration from [@Tanya](https://github.com/tanyarajhans) and [@Riti](https://github.com/riti2409)
