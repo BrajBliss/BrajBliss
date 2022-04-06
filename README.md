@@ -10,12 +10,12 @@
 🤯 My interests are Open-source contribution, Competitive Programming, and Software Development. <br>
 🌱 I'm working with Java, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB Atlas. <br>
 📧 Feel free to contact me regarding anything. <br>
-🍿 (My Movie/Show)[https://trakt.tv/users/brajbliss] stats and lists if you are interested.
 
 ## Practicing at ⚙️ 
 <a href="https://www.linkedin.com/in/brajbliss/"><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" align="right" width="155" height="125"></a>
 🤧 [LeetCode](https://leetcode.com/BrajBliss/)<br>
-🤗 Sharing updates on [LinkedIn](https://linkedin.com/in/brajbliss) and [Twitter](https://twitter.com/BrajBliss)
+🤗 Sharing updates on [LinkedIn](https://linkedin.com/in/brajbliss) and [Twitter](https://twitter.com/BrajBliss)<br>
+🍿 [My Movies/Shows](https://trakt.tv/users/brajbliss) stats and lists if you are interested.
 
 ## Also Present Here 🌏
 [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/BrajBliss)
