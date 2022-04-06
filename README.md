@@ -9,8 +9,8 @@
 👨‍🎓 I'm currently pursuing my bachelors in Computer and Science Engineering from CDGI, Indore . <br>
 🤯 My interests are Open-source contribution, Competitive Programming, and Software Development. <br>
 🌱 I'm working with Java, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB Atlas. <br>
-📧 Feel free to contact me regarding anything.
-🍿 [My Movie/Show](https://trakt.tv/users/brajbliss) stats and lists if you are interested.
+📧 Feel free to contact me regarding anything. <br>
+🍿 (My Movie/Show)[https://trakt.tv/users/brajbliss] stats and lists if you are interested.
 
 ## Practicing at ⚙️ 
 <a href="https://www.linkedin.com/in/brajbliss/"><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" align="right" width="155" height="125"></a>
