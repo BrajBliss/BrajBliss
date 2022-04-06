@@ -14,7 +14,6 @@
 ## Practicing at ⚙️ 
 <a href="https://www.linkedin.com/in/brajbliss/"><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" align="right" width="155" height="125"></a>
 🤧 [LeetCode](https://leetcode.com/BrajBliss/)<br>
-😮‍💨 5 🌟 [HackerRank](https://www.hackerrank.com/BrajBliss)<br>
 🤗 Sharing updates on [LinkedIn](https://linkedin.com/in/brajbliss) and [Twitter](https://twitter.com/BrajBliss)
 
 ## Also Present Here 🌏
