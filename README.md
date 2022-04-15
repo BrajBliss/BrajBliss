@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvrindavan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## About Me 🙋‍♂️
-<img alt="Eat Sleep Code Repeat" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" align="right" width="155" height="130"/>
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" align="right" width="155" height="125">
 👨‍🎓 I'm currently pursuing my bachelors in Computer and Science Engineering from CDGI, Indore . <br>
 🤯 My interests are Open-source contribution, Competitive Programming, and Software Development. <br>
 🌱 I'm working with Java, JavaScript, MERN Stack and practicing on LeetCode. <br>
