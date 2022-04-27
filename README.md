@@ -1,6 +1,6 @@
 # Hey, I am Amay 👋👨‍💻
 [![Twitter Follow](https://img.shields.io/twitter/follow/BrajBliss?label=Follow)](https://twitter.com/intent/follow?screen_name=BrajBliss)
-[![Linkedin: Amay](https://img.shields.io/badge/-Amay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brajbliss/)](https://www.linkedin.com/in/tanyarajhans/)
+[![Linkedin: Amay](https://img.shields.io/badge/-Amay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brajbliss/)](https://www.linkedin.com/in/brajbliss/)
 ![GitHub followers](https://img.shields.io/github/followers/vrindavan?label=Follow&style=social)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvrindavan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
