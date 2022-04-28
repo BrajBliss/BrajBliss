@@ -7,7 +7,7 @@
 ## About Me 🙋‍♂️
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" align="right" width="155" height="125">
 👨‍🎓 I'm currently pursuing my bachelors in Computer and Science Engineering from CDGI, Indore . <br>
-🤯 My interests are Open-source contribution, Competitive Programming, and Software Development. <br>
+🤯 My interests are Open-source contribution, Hackathons, and Software Development Engineering. <br>
 🌱 I'm working with Java, JavaScript, MERN Stack and practicing on LeetCode. <br>
 📧 Feel free to contact me regarding anything. <br>
 
