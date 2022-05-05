@@ -67,6 +67,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasantisuthar&theme=tokyonight_duo&hide_border=true&show_icons=true&include_all_commits=true" />
 </a>
 
+## Profile Trophy
+![ProfileTrophy](https://github-profile-trophy.vercel.app/?username=vrindavan&theme=radical)
+
 ## Contribution Graph 📊
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vrindavan&theme=redical&hide_border=true)
 
