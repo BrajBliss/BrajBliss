@@ -5,8 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvrindavan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## About Me 🙋‍♂️
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" align="right" width="155" height="125">
-👨‍🎓 I'm currently pursuing my bachelors in Computer and Science Engineering from CDGI, Indore . <br>
+👨‍🎓 I'm currently pursuing my bachelors in Computer and Science Engineering.<br>
 🤯 My interests are Open-source contribution, Hackathons, and Software Development Engineering. <br>
 🌱 I'm working with Java, JavaScript, MERN Stack and practicing on LeetCode. <br>
 📧 Feel free to contact me regarding anything. <br>
@@ -50,7 +49,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brajbliss)
 [![YT badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/amayy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brajbliss)
-[![IG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brajblisss)
 [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/BrajBliss)
 [![Spotify badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/55m1lujjgt8airyq3b4kexcva)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/BrajBliss/)
@@ -65,16 +63,10 @@
 <a href="https://github.com/vrindavan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrindavan&hide_border=true&layout=compact&theme=aura" />
 </a>
-<a href="https://github.com/vrindavan">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasantisuthar&theme=tokyonight_duo&hide_border=true&show_icons=true&include_all_commits=true" />
-</a>
 
 ## Profile Trophy
 ![ProfileTrophy](https://github-profile-trophy.vercel.app/?username=vrindavan&theme=radical)
 
-## Contribution Graph 📊
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vrindavan&theme=redical&hide_border=true)
-
-## Snake Eating my Contribution 🐍
+## Snake Eating my Contribution 🐍📊
 
 ![snake gif](https://github.com/vrindavan/vrindavan/blob/output/github-contribution-grid-snake.svg)
