@@ -65,7 +65,3 @@
 
 ## Profile Trophy
 ![ProfileTrophy](https://github-profile-trophy.vercel.app/?username=vrindavan&theme=radical)
-
-## Snake Eating my Contribution 🐍📊
-
-![snake gif](https://github.com/vrindavan/vrindavan/blob/output/github-contribution-grid-snake.svg)
