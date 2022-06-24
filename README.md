@@ -21,6 +21,9 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/BrajBliss/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/BrajBliss)
 
+## Profile Trophy
+![ProfileTrophy](https://github-profile-trophy.vercel.app/?username=vrindavan&theme=radical)
+
 ## Stats 📊
 
 <a href="https://github.com/vrindavan">
@@ -29,6 +32,3 @@
 <a href="https://github.com/vrindavan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrindavan&hide_border=true&layout=compact&theme=aura" />
 </a>
-
-## Profile Trophy
-![ProfileTrophy](https://github-profile-trophy.vercel.app/?username=vrindavan&theme=radical)
