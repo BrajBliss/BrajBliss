@@ -6,7 +6,7 @@
 
 ## About Me 🙋‍♂️
 👨‍🎓 Currently pursuing my bachelors in Computer and Science Engineering.<br>
-🤯 Interested in Open-source=, Hackathons, and Software Development Engineering. <br>
+🤯 Interested in Open-source, Hackathons, and Software Development Engineering. <br>
 🌱 Working with Java, JavaScript, MERN Stack and practicing on LeetCode. <br>
 📧 Feel free to contact me regarding anything. <br>
 
