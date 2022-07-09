@@ -1,6 +1,5 @@
 # Hey, I am Amay 👋 [![Twitter Follow](https://img.shields.io/twitter/follow/BrajBliss?label=Follow)](https://twitter.com/intent/follow?screen_name=BrajBliss)
 
-## About Me 🙋‍♂️
 👨‍🎓 Currently pursuing my bachelors in Computer and Science Engineering.<br>
 🤯 Interested in Open-source, Hackathons, and Software Development Engineering. <br>
 🌱 Working with Java, JavaScript, MERN Stack and practicing on LeetCode. <br>
@@ -15,10 +14,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brajbliss)
 [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/BrajBliss)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/BrajBliss/)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/BrajBliss)
 
-## Profile Trophy
+## Profile Trophies 🏆
+<details>
+<summary>Click to Expand!</summary>
+
 ![ProfileTrophy](https://github-profile-trophy.vercel.app/?username=vrindavan&theme=radical)
+</details>
 
 ## Stats 📊
 <details>
