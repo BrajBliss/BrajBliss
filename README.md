@@ -21,6 +21,8 @@
 ![ProfileTrophy](https://github-profile-trophy.vercel.app/?username=vrindavan&theme=radical)
 
 ## Stats 📊
+<details>
+<summary>Click to Expand!</summary>
 
 <a href="https://github.com/vrindavan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrindavan&theme=aura&&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
@@ -28,8 +30,11 @@
 <a href="https://github.com/vrindavan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrindavan&hide_border=true&layout=compact&theme=aura" />
 </a>
+</details>
 
 ## Tech I am using/working with 💻
+<details>
+<summary>Click to Expand!</summary>
 
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://amay.bio.link)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://amay.bio.link)
@@ -61,3 +66,4 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://amay.bio.link)
 [![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://amay.bio.link)
 [![Asus](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)](https://amay.bio.link)
+</details>
