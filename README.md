@@ -1,9 +1,4 @@
-# Hey, I am Amay 👋 [![Twitter Follow](https://img.shields.io/twitter/follow/BrajBliss?label=Follow)](https://twitter.com/intent/follow?screen_name=BrajBliss)
-
-👨‍🎓 Currently pursuing my bachelors in Computer Science Engineering.<br>
-🤯 Interested in Open-source, Hackathons, and Software Development Engineering. <br>
-🌱 Working with Java, JavaScript, MERN Stack and practicing on LeetCode. <br>
-📧 Feel free to contact me regarding anything. <br>
+# Hey, I am Amay <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> [![Twitter Follow](https://img.shields.io/twitter/follow/BrajBliss?label=Follow)](https://twitter.com/intent/follow?screen_name=BrajBliss)
 
 ## Present Here 🌏
 [![HashNode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://amay.hashnode.dev)
