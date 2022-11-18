@@ -27,7 +27,7 @@
 <summary>Click to Expand!</summary>
 
 <a href="https://github.com/vrindavan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrindavan&theme=aura&&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrindavan&theme=aura&&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" />
 </a>
 <a href="https://github.com/vrindavan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrindavan&hide_border=true&layout=compact&theme=aura" />
