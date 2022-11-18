@@ -27,7 +27,6 @@
 <details>
 <summary>Click to Expand!</summary>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,git,html,css,sass,styledcomponents,bootstrap,tailwind,materialui,express,react,redux,nodejs,mongodb,firebase,codepen,vscode,idea)](https://amay.bio.link)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://amay.bio.link)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://amay.bio.link)
 [![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://amay.bio.link)
@@ -42,4 +41,5 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://amay.bio.link)
 [![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)](https://amay.bio.link)
 [![Asus](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)](https://amay.bio.link)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,git,html,css,sass,styledcomponents,bootstrap,tailwind,materialui,express,react,redux,nodejs,mongodb,firebase,codepen,vscode,idea)](https://amay.bio.link)
 </details>
