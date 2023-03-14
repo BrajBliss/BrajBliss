@@ -1,5 +1,6 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> [![Twitter Follow](https://img.shields.io/twitter/follow/BrajBliss?label=Follow)](https://twitter.com/intent/follow?screen_name=BrajBliss)
 [![Spotify badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31uj5pmfp7ctjqtzdcnrz6cvgtwe)
+[![HashNode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://amay.hashnode.dev)
 [![YT badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@BrajBliss?sub_confirmation=1)
 [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/BrajBliss)
 
