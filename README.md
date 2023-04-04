@@ -1,14 +1,3 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/BrajBliss?label=Follow)](https://twitter.com/intent/follow?screen_name=BrajBliss)
-[![Spotify badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31uj5pmfp7ctjqtzdcnrz6cvgtwe)
-[![HashNode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://amay.hashnode.dev)
-[![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/BrajBliss)
-
-## Tech I am using/working with 💻
-
-<details>
-
-<summary>Click to Expand!</summary>
-
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://twitter.com/intent/follow?screen_name=BrajBliss)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://twitter.com/intent/follow?screen_name=BrajBliss)
 [![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://twitter.com/intent/follow?screen_name=BrajBliss)
@@ -23,5 +12,3 @@
 [![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)](https://twitter.com/intent/follow?screen_name=BrajBliss)
 [![Asus](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)](https://twitter.com/intent/follow?screen_name=BrajBliss)
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,git,html,css,sass,styledcomponents,bootstrap,tailwind,materialui,express,react,redux,nodejs,mongodb,firebase,codepen,vscode,idea)](https://twitter.com/intent/follow?screen_name=BrajBliss)
-
-</details>
